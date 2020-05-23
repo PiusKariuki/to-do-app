@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/://PiusKariuki.github.io/to-to-app/static/css/main.1a97ceb2.chunk.css",
+    "main.js": "/://PiusKariuki.github.io/to-to-app/static/js/main.c1e559e3.chunk.js",
+    "main.js.map": "/://PiusKariuki.github.io/to-to-app/static/js/main.c1e559e3.chunk.js.map",
+    "runtime-main.js": "/://PiusKariuki.github.io/to-to-app/static/js/runtime-main.40c12a83.js",
+    "runtime-main.js.map": "/://PiusKariuki.github.io/to-to-app/static/js/runtime-main.40c12a83.js.map",
+    "static/js/2.c7110b6e.chunk.js": "/://PiusKariuki.github.io/to-to-app/static/js/2.c7110b6e.chunk.js",
+    "static/js/2.c7110b6e.chunk.js.map": "/://PiusKariuki.github.io/to-to-app/static/js/2.c7110b6e.chunk.js.map",
+    "index.html": "/://PiusKariuki.github.io/to-to-app/index.html",
+    "precache-manifest.5284c7b30f440518ab1f97578f8208d7.js": "/://PiusKariuki.github.io/to-to-app/precache-manifest.5284c7b30f440518ab1f97578f8208d7.js",
+    "service-worker.js": "/://PiusKariuki.github.io/to-to-app/service-worker.js",
+    "static/css/main.1a97ceb2.chunk.css.map": "/://PiusKariuki.github.io/to-to-app/static/css/main.1a97ceb2.chunk.css.map",
+    "static/js/2.c7110b6e.chunk.js.LICENSE.txt": "/://PiusKariuki.github.io/to-to-app/static/js/2.c7110b6e.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/://PiusKariuki.github.io/to-to-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40c12a83.js",
+    "static/js/2.c7110b6e.chunk.js",
+    "static/css/main.1a97ceb2.chunk.css",
+    "static/js/main.c1e559e3.chunk.js"
+  ]
+}
